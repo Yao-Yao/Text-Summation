@@ -1,0 +1,75 @@
+该报道内容节选如下：上个月，巴黎开发者安东尼·莫科斯（Antoine Morcos）收到了一封意想不到的电子邮件：Facebook宣布将和他开发的照片共享应用“Vintage相机”（Vintage Camera）切断关系
+tfidf = 31.480454981
+
+MessageMe联合创始人阿琼·塞斯（Arjun Sethi）表示，Facebook给出的理由，是一个禁止拷贝Facebook核心服务和产品的条款
+tfidf = 24.8465645873
+
+除去Vintage相机之外，Facebook最近还封杀了消息应用Voxer、Yandex的社交发现应用Wonder、以及Twitter的视频应用Vine
+tfidf = 24.4943496001
+
+不过第三方开发者认为，Facebook的镇压旨在扼杀那些与Facebook自有服务展开竞争的应用，或者是强迫第三方应用在Facebook购买广告
+tfidf = 22.8262766376
+
+Facebook对该做法表态说，公司正在加强对第三方应用的整顿，清除垃圾应用和并未给Facebook带来价值的应用
+tfidf = 22.5834762156
+
+前几天，Facebook又封杀了几天前刚刚发布的消息应用MessageMe，该应用随之无法获得Facebook用户的好友清单
+tfidf = 22.5374446549
+
+但当它试图想收购初创公司却遭拒、或者初创公司跟自己利益有冲突时，它对创业公司的态度就不那么友好了
+tfidf = 22.3781141011
+
+莫科斯对此进行了申诉，称照片分享投诉率只有千分之三，但Facebook对此毫不理会
+tfidf = 21.9497573225
+
+Snapchat的创始人表示，马克•扎克伯格在2012年12月初曾经和他见面，之后不到几个星期Facebook就推出了Poke
+tfidf = 21.3825615904
+
+许多开发者认为，Facebook正在利用“反垃圾”的名义打压竞争对手、或是不愿被Facebook收购的应用
+tfidf = 20.041485401
+
+也是在去年，创业者Dalton Caldwell说，当他拒绝了Facebook的收购邀约后，后者威胁要干掉它
+tfidf = 20.0164262997
+
+莫科斯立即就失去了近50万个只通过Facebook帐号登录的Vintage相机用户
+tfidf = 19.7723932563
+
+Facebook对初创公司特别敏感警惕，这正是它为何拍出10亿美元收购Instagram的原因
+tfidf = 19.6724474822
+
+用户每天从Facebook上分享6000张照片；如今他们已无法再使用Vintage相机
+tfidf = 19.1950185862
+
+消息人士透露，MessageMe此前拒绝了来自Facebook的收购要约
+tfidf = 18.3123669971
+
+而最近的例子是，据《华尔街日报》报道，Facebook最近和第三方应用开发者的关系变得越来越紧张
+tfidf = 18.1704480934
+
+”Vintage相机的竞争对手是Facebook旗下的图片共享应用Instagram
+tfidf = 17.8118274474
+
+Facebook并没有向莫科斯解释什么，仅表示许多用户都投诉了这款应用
+tfidf = 17.3940287939
+
+莫科斯说，“我确实非常震惊
+tfidf = 14.0354305469
+
+如果买不下你，就扼杀掉你
+tfidf = 13.1184953678
+
+看看，某些中国巨头在美国也有好基友呢
+tfidf = 12.598426979
+
+Facebook这都在跟谁学呐
+tfidf = 12.0593902345
+
+2012年12月，Facebook推出Poke应用就是一例
+tfidf = 11.5246617928
+
+这没问题
+tfidf = 5.35675445237
+
+
+tfidf = 0
+
