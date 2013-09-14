@@ -1,6 +1,15 @@
 需要王丰更改：
 def query(k) # if failed, return 0
 
+def insert(k, v)
+def update(k, v)
+def query(k)
+都要加上tablename：
+def insert(tablename, k, v)
+def update(tablename, k, v)
+def query(tablename, k)
+
+def get_summary(u_title, u_content) # fail: return []
 
 -----------------------
 王丰提供：
