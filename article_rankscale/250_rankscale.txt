@@ -55,12 +55,6 @@ tfidf = 14.3097544164
 亚马逊是LivingSocial的股东之一
 tfidf = 14.0097528802
 
-Google Play禁止APP自主更新
-tfidf = 13.4603255868
-
-【早报】收权了
-tfidf = 11.6225020952
-
 ”
 tfidf = 1.44116056023
 

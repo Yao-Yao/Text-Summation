@@ -55,7 +55,9 @@ def bigram_cn(sc):
 
     return words
 
-if __name__ == "__main__": 
+if __name__ == "__main__":
+    print " === English === "
+    
     sc = 'i love you'
     print sc
     words = unigram_en(sc)
@@ -67,7 +69,9 @@ if __name__ == "__main__":
     print words
     for w in words:
         print w
-        
+
+    print to_unicode(" === 中文 === ")
+    
     sc = to_unicode('我爱你')
     print sc
     words = unigram_cn(sc)

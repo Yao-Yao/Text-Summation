@@ -1,4 +1,4 @@
-1 使用方法：
+使用方法：
 
 在article目录下准备好文档集
 
@@ -7,11 +7,17 @@
 
 建立article_rankscale目录
 
-运行rank_scale.py生成rank后的句子。
+运行rankscale.py生成rank后的句子。
 rank的过程：tfidf评分并scale，最后排序。
 
+
 ——————————————
-2 python模块
+web app 接口调用：
+
+使用getsummary.py即可。
+
+——————————————
+python模块
 
 basicmethods.py
 列举指定目录下的所有文件路径list
@@ -23,5 +29,5 @@ langmodel.py
 build_vocab.py
 生成vocabulary，tf和df的
 
-rank_scale.py
+rankscale.py
 生成rank后的句子

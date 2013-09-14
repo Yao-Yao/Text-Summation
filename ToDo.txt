@@ -1,3 +1,8 @@
+需要王丰更改：
+def query(k) # if failed, return 0
+
+
+-----------------------
 王丰提供：
 def insert(k, v)
 def update(k, v)
