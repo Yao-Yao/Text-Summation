@@ -1,33 +1,33 @@
-Ê¹ÓÃ·½·¨£º
+ä½¿ç”¨æ–¹æ³•ï¼š
 
-ÔÚarticleÄ¿Â¼ÏÂ×¼±¸ºÃÎÄµµ¼¯
+åœ¨articleç›®å½•ä¸‹å‡†å¤‡å¥½æ–‡æ¡£é›†
 
-ÔËÐÐbuild_vocab.pyÉú³Évocabulary£¬tfºÍdfµÄ£¬ÐòÁÐ»¯³ÉpickleÎÄ¼þ
-ÅÅÐòºóÊä³öµÄtxtÎÄ¼þ£ºvocabulary.txtºÍvocab_df.txt¡£
+è¿è¡Œbuild_vocab.pyç”Ÿæˆvocabularyï¼Œtfå’Œdfçš„ï¼Œåºåˆ—åŒ–æˆpickleæ–‡ä»¶
+æŽ’åºåŽè¾“å‡ºçš„txtæ–‡ä»¶ï¼švocabulary.txtå’Œvocab_df.txtã€‚
 
-½¨Á¢article_rankscaleÄ¿Â¼
+å»ºç«‹article_rankscaleç›®å½•
 
-ÔËÐÐrankscale.pyÉú³ÉrankºóµÄ¾ä×Ó¡£
-rankµÄ¹ý³Ì£ºtfidfÆÀ·Ö²¢scale£¬×îºóÅÅÐò¡£
+è¿è¡Œrankscale.pyç”ŸæˆrankåŽçš„å¥å­ã€‚
+rankçš„è¿‡ç¨‹ï¼štfidfè¯„åˆ†å¹¶scaleï¼Œæœ€åŽæŽ’åºã€‚
 
 
-¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
-web app ½Ó¿Úµ÷ÓÃ£º
+â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”
+web app æŽ¥å£è°ƒç”¨ï¼š
 
-Ê¹ÓÃgetsummary.py¼´¿É¡£
+ä½¿ç”¨getsummary.pyå³å¯ã€‚
 
-¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
-pythonÄ£¿é
+â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”
+pythonæ¨¡å—
 
 basicmethods.py
-ÁÐ¾ÙÖ¸¶¨Ä¿Â¼ÏÂµÄËùÓÐÎÄ¼þÂ·¾¶list
-½«×Ö·û´®×ª»»³Éunicode±àÂë£¨utf-8£©
+åˆ—ä¸¾æŒ‡å®šç›®å½•ä¸‹çš„æ‰€æœ‰æ–‡ä»¶è·¯å¾„list
+å°†å­—ç¬¦ä¸²è½¬æ¢æˆunicodeç¼–ç ï¼ˆutf-8ï¼‰
 
 langmodel.py
-ÓïÑÔÄ£ÐÍ£¬Ò»Ôª»ò¶þÔªÄ£ÐÍ
+è¯­è¨€æ¨¡åž‹ï¼Œä¸€å…ƒæˆ–äºŒå…ƒæ¨¡åž‹
 
 build_vocab.py
-Éú³Évocabulary£¬tfºÍdfµÄ
+ç”Ÿæˆvocabularyï¼Œtfå’Œdfçš„
 
 rankscale.py
-Éú³ÉrankºóµÄ¾ä×Ó
+ç”ŸæˆrankåŽçš„å¥å­

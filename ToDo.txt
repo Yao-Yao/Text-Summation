@@ -1,10 +1,10 @@
-ĞèÒªÍõ·á¸ü¸Ä£º
+éœ€è¦ç‹ä¸°æ›´æ”¹ï¼š
 def query(k) # if failed, return 0
 
 def insert(k, v)
 def update(k, v)
 def query(k)
-¶¼Òª¼ÓÉÏtablename£º
+éƒ½è¦åŠ ä¸Štablenameï¼š
 def insert(tablename, k, v)
 def update(tablename, k, v)
 def query(tablename, k)
@@ -12,10 +12,10 @@ def query(tablename, k)
 def get_summary(u_title, u_content) # fail: return []
 
 -----------------------
-Íõ·áÌá¹©£º
+ç‹ä¸°æä¾›ï¼š
 def insert(k, v)
 def update(k, v)
 def query(k) # None
 
-¸øÍõ·á£º
+ç»™ç‹ä¸°ï¼š
 def get_summary(u_title, u_content) # fail: u_content[:140] + ... 
