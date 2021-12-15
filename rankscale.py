@@ -146,10 +146,10 @@ def fsummary(filepath):
     line = f.readline()
     while line:
         line = line.rstrip()
-    	sentences = re.split(ur'。|？|！', line)
+        sentences = re.split(ur'。|？|！', line)
         # sentences = line.split('。')
 
-    	for sc in sentences:
+        for sc in sentences:
             # print n, '\t', to_unicode(sc) 
             # n += 1
 
@@ -170,9 +170,9 @@ def get_summary_from_lines(lines):
 
     for line in lines:        
         line = line.rstrip()
-    	sentences = re.split(ur'。|？|！', line)
+        sentences = re.split(ur'。|？|！', line)
 
-    	for sc in sentences:
+        for sc in sentences:
             # print n, '\t', to_unicode(sc) 
             # n += 1
             print ""

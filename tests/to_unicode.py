@@ -6,8 +6,8 @@ sys.setdefaultencoding('utf8')
 
 def to_unicode(obj, encoding='utf-8'):
     if isinstance(obj, basestring):
-       if not isinstance(obj, unicode):
-       	  obj = unicode(obj, encoding)
+        if not isinstance(obj, unicode):
+            obj = unicode(obj, encoding)
     return obj
 
 if __name__ == "__main__": 

@@ -44,9 +44,9 @@ def build_vocab_from_file(filepath):
     # for line in f.readlines():
     while line:
         line = line.rstrip()
-    	sentences = re.split(ur'。|？|！', line)
+        sentences = re.split(ur'。|？|！', line)
         # sentences = line.split('。')
-    	for sc in sentences:
+        for sc in sentences:
             # print n, '\t', to_unicode(sc) 
             # n += 1
 
@@ -63,9 +63,9 @@ def build_vocab_from_lines(lines):
     local_vocab = {}
     for line in lines:
         line = line.rstrip()
-    	sentences = re.split(ur'。|？|！', line)
+        sentences = re.split(ur'。|？|！', line)
         # sentences = line.split('。')
-    	for sc in sentences:
+        for sc in sentences:
             # print n, '\t', to_unicode(sc) 
             # n += 1
 
