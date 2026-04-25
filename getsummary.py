@@ -27,9 +27,9 @@ def get_summary(u_title, u_content):
         line = fbuffer.readline()
         
     # update vocabulary and vocab_df
-    if not build_vocab_from_lines(lines):
+    if not buildvocab.build_vocab_from_lines(lines):
         print "error: build vocabulary failed"
-    if not build_df_from_lines(lines):
+    if not buildvocab.build_df_from_lines(lines):
         print "error: build vocab of df failed"
 
     # return sentence list by descent order
